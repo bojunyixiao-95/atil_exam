@@ -1,6 +1,0 @@
-*.exe
-*.o
-build/
-install/
-log/
-.vscode/
